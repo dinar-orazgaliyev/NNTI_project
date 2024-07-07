@@ -1,0 +1,17 @@
+python<3.12
+ipywidgets
+jupyter
+numpy
+matplotlib
+pytorch
+sentencepiece
+protobuf
+datasets
+transformers
+diffusers
+peft
+h5py
+scikit-learn
+wandb
+altair<5
+altair_viewer
